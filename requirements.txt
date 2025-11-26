@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+tensorflow>=2.6
+deap
+xgboost
+lightgbm
+joblib
+matplotlib
+seaborn
+pyyaml

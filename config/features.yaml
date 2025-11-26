@@ -1,0 +1,14 @@
+# List the feature column names in the same order as in your processed CSV.
+# Example:
+# - wofost_yield
+# - ndvi
+# - api_ho_fm
+# - api_pa_jf
+# Replace these with your actual feature names.
+features:
+  - wofost_yield
+  - ndvi
+  - api_ho_fm
+  - api_ho_sj
+  - api_pa_jf
+  - api_pa_sj
